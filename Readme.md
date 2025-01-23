@@ -14,3 +14,10 @@ A simple and intuitive To-Do List application built using **HTML**, **CSS**, and
 - **HTML**: Structure of the application.
 - **CSS**: Styling for a visually appealing interface.
 - **JavaScript**: Functionality to handle user interactions.
+
+## Screenshots
+
+Below is the screenshots of the To-Do List app:
+
+![To-Do List App Screenshot](./images/Screenshots/ScreenshotTodoListApp1.png)
+![To-Do List App Screenshot](./images/Screenshots/ScreenshotTodoListApp.png)
